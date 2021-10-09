@@ -1,0 +1,34 @@
+body {
+  background-color: #F0F4F9;
+  
+  font-family: Monospace;
+}
+footer p {
+  text-align: center;
+  font-family: Monospace;
+  margin-top: 20px;
+}
+.navbar {
+}
+footer p a {
+  color: silver;
+}
+.list-group {
+  margin-top: 80px;
+  background-color: black;
+}
+.list-group ul li {
+  color: black;
+  
+}
+ul {
+  background-color: black;
+}
+.img2, .img1 {
+  margin-top: 30px;
+  border-bottom: 5px solid black;
+}
+h3 {
+  text-align: center;
+  margin-top: 10px;
+}
